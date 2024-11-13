@@ -90,7 +90,7 @@ To integrate Tailwind CSS smoothly with Remix, follow these steps:
    npx shadcn@latest add <component-name>
    ```
 3. **Automation** Can be automated installing the used components from v0 by copying this code (Automatically initate and install necessary components) 
-   ![image](hhttps://i.ibb.co/Zfmftbq/Screenshot-from-2024-11-13-23-21-20.png)
+   ![image](https://i.ibb.co/Zfmftbq/Screenshot-from-2024-11-13-23-21-20.png)
 
 ---
 
